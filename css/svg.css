@@ -1,0 +1,14 @@
+svg path:hover {
+	fill: #c4ccd9;
+}
+svg path {
+	transition: fill .2s linear;
+}
+.list_location_wrapper li {
+	transition: color .2s linear;
+}
+.list_location_wrapper li:hover {
+	cursor: pointer;
+	color: #5090f0;
+	
+}
